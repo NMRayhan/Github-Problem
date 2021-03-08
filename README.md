@@ -7,3 +7,7 @@ I uninstalled the git credentials manager and reinstalled it and then I could ea
 
 $ git credential-manager uninstall
 $ git credential-manager install
+
+2/Ping Problem
+cmd command > 
+ping 8.8.8.8 -t 
